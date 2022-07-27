@@ -40,6 +40,8 @@
   * git remote add origin https://github.com/KomissarGibert/Git_Manual.git 
   * git branch -M main 
   * git push -u origin main
+  
+  1.4 Редактирование своего репозитория в гитхабе, сохранить изменения
 
 2. Увидеть текущую версию, команда *__git --version__*
 Программа использует мнемонические команды, которые легко запомнить, если знать английский язык. 
